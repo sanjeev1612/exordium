@@ -2,7 +2,7 @@ package dsa.stack;
 
 public class IntStackTestor {
     public static void main(String[] args) {
-        IntStack stack = new IntStack();
+        GenStack stack = new GenStack();
         stack.push(2);
         stack.push(3);
         stack.push(4);
