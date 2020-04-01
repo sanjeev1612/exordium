@@ -1,4 +1,4 @@
-package dsa;
+package dsa.tree;
 
 class Node {
     int value;

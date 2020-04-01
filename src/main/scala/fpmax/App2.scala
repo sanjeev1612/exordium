@@ -1,5 +1,7 @@
 package fpmax
 
+import scala.util.Try
+
 object App2 {
   object stdlib {
     trait Program[F[_]] {
